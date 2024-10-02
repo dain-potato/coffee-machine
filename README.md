@@ -29,5 +29,5 @@ Each drink requires specific amounts of water, milk, and coffee, which are deduc
 1. Clone this repository.
 2. Run the Python program:
 ```bash
-python coffee_machine.py
+python main.py
 
