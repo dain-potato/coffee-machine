@@ -93,4 +93,4 @@ while is_machine_on:
             if check_transaction(user_coins):
                 make_coffee()
     else:
-        print("Sorry, we don't have that in out menu.")
+        print("Sorry, we don't have that in our menu.")
